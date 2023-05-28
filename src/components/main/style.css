@@ -1,0 +1,12 @@
+.container_section{
+    height: auto;
+    background-color: aqua;
+}
+.banner{
+    width: 100%;
+    height: 400px;
+    background-image: url('../../img/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
