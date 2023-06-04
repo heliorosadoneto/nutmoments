@@ -12,7 +12,7 @@ header{
 }
 
 h1:nth-child(1){
-    font-size: 5rem;
+    font-size: 4rem;
     
     text-shadow: -1px 0 white, 0 1px white,
       1px 0 white, 0 -1px white
@@ -21,7 +21,7 @@ h1:nth-child(1){
 h1:nth-child(2){
     font-family: 'Dancing Script', cursive;
     color: red;
-    font-size: 6rem;
+    font-size: 4rem;
     text-shadow: -1px 0 white, 0 1px white,
       1px 0 white, 0 -1px white
     
