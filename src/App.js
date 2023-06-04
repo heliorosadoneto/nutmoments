@@ -5,6 +5,7 @@ import Footer from "./components/footer";
 import Header from "./components/header";
 import Main from "./components/main";
 import Map from "./components/map";
+import Sobre from "./components/sobre";
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <div className="app" >
       <Header/>
       <Main/>
+      <Sobre/>
       <Card/>
       <Map/>
       <Footer/>

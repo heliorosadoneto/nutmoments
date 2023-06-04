@@ -1,0 +1,25 @@
+.sobreContainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #5A3821;
+}
+.sobreContainer p{
+    width: 70%;
+    margin: 10px;
+    color: seashell;
+    text-align: justify;
+    line-height: 19px;
+
+}
+.sobreContainer p:nth-child(1){
+    text-indent: 1.5em;
+}
+.sobreContainer p:nth-child(2){
+    font-size: 20px;
+    text-align: center;
+
+}
