@@ -1,7 +1,12 @@
-.container_section{
+footer{
     width: 100%;
-    height: auto;
+    height: 100px;
     display: flex;
     align-items: center;
     justify-content: center;
+    background-color: #5a3821;
+}
+footer img {
+    width: 10%;
+
 }

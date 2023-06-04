@@ -1,0 +1,14 @@
+.MapContainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.MapContainer iframe{
+    width: 60%;
+    height: 400px;
+    border: 3px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
